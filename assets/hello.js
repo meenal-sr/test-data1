@@ -70,6 +70,7 @@ __webpack_require__.dn(__WEBPACK_DEFAULT_EXPORT__);
   //on sample-svelte.js , you can access the shopify data in variable shopifyData 
   //check svelte-wrapper.js for more info
 });
+// /just for the test
 
 /***/ },
 
